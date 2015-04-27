@@ -1,0 +1,2 @@
+# sj-cli
+SpotJams CLI
