@@ -1,2 +1,3 @@
-# sj-cli
-SpotJams CLI
+# docs
+
+Various documents for ideas, discussions, guides, ...
